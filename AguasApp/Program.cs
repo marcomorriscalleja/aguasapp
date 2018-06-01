@@ -22,5 +22,9 @@ namespace AguasApp
         {
             //1
         }
+        static void test3(string[] args)
+        {
+            //1
+        }
     }
 }
