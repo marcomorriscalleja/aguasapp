@@ -10,21 +10,7 @@ namespace AguasApp
     {
         static void Main(string[] args)
         {
-            //1
-        }
-
-        static void test(string[] args)
-        {
-            //1
-        }
-
-        static void test2(string[] args)
-        {
-            //1
-        }
-        static void test3(string[] args)
-        {
-            //1
+            
         }
     }
 }
